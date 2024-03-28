@@ -1,0 +1,34 @@
+.wrapper-div
+{
+      display: flex;
+      justify-content: space-around;
+      background-color: bisque;
+}
+
+.input-box
+{
+    flex-grow: 5;
+    margin: 10px 10px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    letter-spacing: 2px;
+    border: 10px solid black;
+    border-radius: 40px;
+}
+
+.button-box
+{
+    flex-grow: 1;
+    margin: 10px 10px;
+    background-color: cyan;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    letter-spacing: 2px;
+    border: 10px solid cyan;
+    border-radius: 40px;
+
+}
